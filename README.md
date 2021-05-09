@@ -1,6 +1,6 @@
 # vrandktech
 
-vrandktech has built a visualization system for 4-dimensional shapes.
+vrandktech has built a visualization system for 4-dimensional shapes. Please excuse poor style choices :)
 
 ## Installation
 
